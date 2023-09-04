@@ -33,6 +33,12 @@ div {
   padding: 8px;
 }
 
+.hero-splash {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 8px;
+}
+
 .top-navigation {
   display: flex;
   margin: 0;
@@ -51,6 +57,7 @@ div {
   display: flex;
   align-items: center;
   gap: 16px;
+  padding: 0;
 }
 
 .logo {
