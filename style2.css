@@ -70,6 +70,17 @@ section {
   color: #1f2937;
 }
 
+.txt-call-to-action {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.txt-footer {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
 button {
   background-color: #3882f6;
+  color: #f9faf8;
 }
