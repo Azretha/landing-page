@@ -1,0 +1,75 @@
+body,
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+h2,
+h3,
+p {
+  margin-bottom: 1em;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+header,
+section {
+  padding: 4rem 0;
+}
+
+.container {
+  padding: 0 1em;
+  margin: 0 auto;
+  border: 2px solid red;
+}
+
+.bg-dark {
+  background-color: #1f2937;
+}
+
+.bg-call-to-action {
+  background-color: #3882f6;
+}
+
+.bg-quote {
+  background-color: #e5e7eb;
+}
+
+.txt-hero-main {
+  font-size: 48px;
+  font-weight: 800;
+  color: #f9faf8;
+}
+
+.txt-hero-sec,
+.txt-header a {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.txt-header-logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.txt-info-header {
+  font-size: 36px;
+  font-weight: 800;
+  color: #1f2937;
+}
+
+.txt-quote {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1f2937;
+}
+
+button {
+  background-color: #3882f6;
+}
